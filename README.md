@@ -3,6 +3,11 @@
 
 Com esta ferramenta, é possível criar links mais curtos e fáceis de compartilhar em redes sociais, e-mails, mensagens e outros meios de comunicação. 
 
+<strong>MeuURLMaisCurto </strong> é um projeto de encurtamento de URLs em JavaScript que utiliza uma classe URLcurta para gerenciar as URLs encurtadas e expandidas, além de prover funcionalidades para validar e gerar códigos de URL únicos.
+
+## Funcionalidades
 
 
-O projeto inclui uma função para verificar se uma URL é válida, gerar uma URL encurtada exclusiva e uma função para expandir uma URL encurtada. Além disso, ele previne ataques de força bruta e evita que nomes personalizados sejam usados mais de uma vez. Com MeuURLMaisCurto, é possível economizar espaço e tornar as URLs mais amigáveis para o usuário final.
+URLcurta(baseURL)             
+Constrói um objeto URLcurta com a baseURL especificada.
+
