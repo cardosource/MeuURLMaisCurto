@@ -12,6 +12,12 @@ O UX (User Experience) refere-se à experiência do usuário ao utilizar o produ
 - Os campos para inserir a URL original e a nova URL encurtada são claros e fáceis de usar. Gerando o link encurtado automaticamente após preencher os campos
 - O rodapé fornece informações úteis sobre o projeto, como sua inspiração e links para as redes sociais do desenvolvedor. Isso é um bom toque e ajuda a aumentar a transparência do projeto.
 
+## UI
+A UI (User Interface) refere-se à aparência visual do produto ou serviço. A seguir estão algumas observações sobre a UI do layout fornecido:
+
+- A página tem um visual limpo e minimalista, com uma paleta de cores suaves e fontes legíveis. Isso torna a página agradável de se ver e fácil de ler.
+
+
 
 <strong>MeuURLMaisCurto </strong> é um projeto de encurtamento de URLs em JavaScript que utiliza uma classe URLcurta para gerenciar as URLs encurtadas e expandidas, além de prover funcionalidades para validar e gerar códigos de URL únicos.
 
