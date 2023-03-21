@@ -24,6 +24,4 @@ A UI (User Interface) refere-se à aparência visual do produto ou serviço. A s
 ## Funcionalidades
 
 
-URLcurta(baseURL)             
-Constrói um objeto URLcurta com a baseURL especificada.
 
