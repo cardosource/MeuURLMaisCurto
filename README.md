@@ -19,6 +19,10 @@ A UI (User Interface) refere-se à aparência visual do produto ou serviço. A s
 
 - A barra de navegação tem um tamanho adequado e o logotipo é claro. No entanto, a navegação é limitada a apenas uma página, então não há muito o que navegar.
 
+- Os campos de entrada para a URL original e a nova URL encurtada têm um bom tamanho e estão bem posicionados. 
+
+
+
 <strong>MeuURLMaisCurto </strong> é um projeto de encurtamento de URLs em JavaScript que utiliza uma classe URLcurta para gerenciar as URLs encurtadas e expandidas, além de prover funcionalidades para validar e gerar códigos de URL únicos.
 
 ## Funcionalidades
