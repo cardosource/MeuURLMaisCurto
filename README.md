@@ -23,7 +23,7 @@ A UI (User Interface) refere-se à aparência visual do produto ou serviço. A s
 
 - O rodapé tem um bom tamanho e apresenta informações úteis. No entanto, a formatação pode ser melhorada para torná-lo mais organizado e fácil de ler.
 
-
+## Gerando URLs encurtadas
 <strong>MeuURLMaisCurto </strong> é um projeto de encurtamento de URLs em JavaScript que utiliza uma classe URLcurta para gerenciar as URLs encurtadas e expandidas, além de prover funcionalidades para validar e gerar códigos de URL únicos.
 
 ## Funcionalidades
